@@ -15,6 +15,7 @@ The form also contains a button that users can click to submit the registration 
 This project is based on employee registration form. In this making of this project using a asp.net framework, visual studio 2022 and sql server 2019.
 under all the datas are recorded in the database. we are doing a work like inser, update and delete. this mediatory field alerts the pop-up message and using validation.
 
+# Employee search record :-
 ![6 Screenshot 2024-04-06 124217](https://github.com/AmanAnand03/EmployeeRegistrationForm/assets/144671231/f0b150ae-6d9e-4448-b22a-0bef742fae39)
 
 In this project i also making a employee serach record. we are doing work like serach record from date to date.
