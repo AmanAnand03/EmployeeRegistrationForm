@@ -1,6 +1,6 @@
 # Employee-Record form
 
-## #Description of an employee registration form in ASP.Net C#:
+## #Description of an employee registration form in ASP.Net C# :
 
 The employee registration form is a Windows Forms application that allows users to register new employees.This project using under the crud operation asp.net c# with sql data source.
 
